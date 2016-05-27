@@ -2,6 +2,8 @@
 
 A simple Angular directive for LinkedIn sign-in.
 
+#Rrequirements
+JQuery is required.  I got lazy :p.
 
 #Usage
 1. Add reference to `angular-directive-linkedin.js` file.
