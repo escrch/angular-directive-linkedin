@@ -11,7 +11,7 @@ A simple Angular directive for LinkedIn sign-in.
 
 
 #Example
-html
+HTML
 ```html
 <div ng-app="directive-linkedin">
         <div linkedin-sign-in callback="linkedInCallBack" apiKey="{Your LinkedIn API Key}"></div>
