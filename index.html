@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="MainApp">
+  <head>
+    <title>Angular Directive for LinkedIn Sign In</title>
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/angular-directive-linkedin.js"></script>
+      
+  </head>
+  <body ng-controller="ApplicationController">
+
+    <div ng-app="directive-linkedin">
+        <div linkedin-sign-in apiKey="{Your API Key Here}" callBack="linkedInCallBack"></div>
+    </div>
+
+  </body>
+    
+</html>
