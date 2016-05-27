@@ -1,2 +1,1 @@
-# angular-directive-linkedin
-Angular LinkedIn Button Directive
+#Angular LinkedIn Button Directive
