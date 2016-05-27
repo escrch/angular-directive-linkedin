@@ -1,5 +1,6 @@
 #Angular LinkedIn Button Directive
 
+A simple Angular directive for LinkedIn sign-in.
 
 
 #Usage
